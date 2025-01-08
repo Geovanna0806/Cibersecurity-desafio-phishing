@@ -16,3 +16,5 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
+### Resultado 
+![clonagem de credencial](https://github.com/user-attachments/assets/5a0b12b3-1d85-4da3-833d-e5184960bd3d)
